@@ -1,6 +1,5 @@
 import HeaderNav from "./components/layout/HeaderNav";
 import { Route, Routes } from "react-router-dom";
-import { useState } from 'react';
 import Home from "../src/pages/Home";
 import CartPage from "../src/pages/CartPage";
 
