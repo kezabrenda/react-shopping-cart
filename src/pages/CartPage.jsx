@@ -21,6 +21,7 @@ const CartPage = () => {
 
       <div className="bg-pink-400 mb-12">
         <h1 className="font-black text-center m-4">My cart</h1>
+        <h3>Total items: ({cart.length})</h3>
         <h3 className="">Total: {total}</h3>
       </div>
     </div>
